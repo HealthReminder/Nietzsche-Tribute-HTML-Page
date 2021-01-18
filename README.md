@@ -14,7 +14,5 @@
  <br><p> </p>
  <br><p> </p>
  <br><p> </p>
-       
-# Nietzsche-Tribute-HTML-Page
 
 </html>
